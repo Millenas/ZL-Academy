@@ -1,45 +1,54 @@
+# ZL Academy
 
-# Treinamento BotCity
-
-Bem-vindo ao repositório de treinamento da BotCity! Este repositório contém todos os materiais, exercícios e exemplos necessários para concluir o treinamento disponível em [treinamento.botcity.dev](https://treinamento.botcity.dev/).
+Bem-vindo ao repositório do projeto ZL Academy! Este repositório contém todos os módulos, materiais e recursos necessários para acompanhar e concluir o projeto ZL Academy.
 
 ## Estrutura do Repositório
 
-- **/labs**: Contém exercícios práticos para cada módulo do treinamento.
-- **/desafio**: Contém o script e descrição do desáfio final do treinamento.
+- **/Nivelamento Python**: Introdução a Linguagem de Programação Python.
+- **/Metodologias Ageis**: ....
+- **/Design UI/UX**: Fundamentos e conceitos básicos.
+- **/BotCity + Python**: Desenvolvimento e implementações.
+- **/Conceito de Orientação a Objetos**: Testes e validação do projeto.
+- **/Feiras**: Exposições de trabalhos.
+- **/workshops**: Treinamentos adicionais.
+- **/documentacao**: Documentação detalhada e recursos adicionais.
+- **/scripts**: Scripts úteis para automatizar tarefas e gerenciar o projeto.
 
 ## Como Usar Este Repositório
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/botcity-treinamento.git
+   git clone https://github.com/seu-usuario/zl-academy.git
    ```
 2. **Navegue até o diretório do repositório:**
    ```bash
-   cd botcity-treinamento
+   cd zl-academy
    ```
 3. **Instale as dependências necessárias:**
    ```bash
    pip install -r requirements.txt
    ```
-4. **Siga as instruções de cada módulo para completar os exercícios e revisar os exemplos fornecidos.**
+4. **Siga as instruções de cada módulo para completar as atividades e revisar os exemplos fornecidos.**
+
+## Disciplinas
+
+### Nivelamento Python
+
+
 
 ## Requisitos
 
 - **Python 3.7+**
+- **Java 11 ou superior
 - **Pip**
 - **Bibliotecas listadas em `requirements.txt`**
 
 ## Recursos Adicionais
 
-- [Documentação Oficial do BotCity](https://docs.botcity.dev/)
-- [Fórum da Comunidade BotCity](https://forum.botcity.dev/)
-- [Vídeos Tutoriais no YouTube](https://www.youtube.com/channel/UC2WbVxwnwKJfgm9zXsmD1hg)
 
 ## Suporte
 
-Se você encontrar algum problema ou tiver dúvidas durante o treinamento, não hesite em abrir uma issue neste repositório ou entrar em contato através do fórum da comunidade BotCity.
-
+Se você encontrar algum problema ou tiver dúvidas durante o desenvolvimento do projeto, não hesite em abrir uma issue neste repositório 
 ---
 
-Espero que isso ajude! Se precisar de mais alguma coisa, é só avisar.
+Se precisar de mais alguma coisa, é só avisar!
